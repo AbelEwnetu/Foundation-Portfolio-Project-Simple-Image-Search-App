@@ -1,6 +1,8 @@
 # Simple Image Search App
 
 This is a simple web application that allows users to search for images using the Unsplash API. Users can enter keywords in the search input field, and the app will display relevant images fetched from Unsplash. Additionally, users can toggle between light and dark mode for better viewing experience.
+# Deployed App link 
+https://abelewnetu.github.io/Foundation-Portfolio-Project-Simple-Image-Search-App/
 
 ## Features
 
